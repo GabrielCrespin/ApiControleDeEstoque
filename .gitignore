@@ -1,0 +1,21 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+
+# Logs
+*.log
+
+# Packages
+*.nupkg
+*.snupkg
+
+# EF Core migrations (opcional)
+Migrations/
+
+# Secrets
+appsettings.Development.json
+appsettings.local.json
